@@ -1,0 +1,6 @@
+{
+  "name": "Helyume",
+  "description": "Helyume Crush, Aura ve Void motorlarıyla 1 saniye altı ultra hızlı yapay zeka sohbeti, görsel ve video analizi, gerçek zamanlı sesli-kameralı canlı asistan ve Topluluk Soruları.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
